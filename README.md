@@ -1,7 +1,7 @@
 ## About Me
-Greetings! I'm a third-year Bachelor of Information Technology student and I'm passionate furthering my knowledge of all things code and design related in order to find my true passion of IT! Particularly fond User Interface Design (UI), small coding projects targeting task optimzation and restoring vintage hardware.
+Greetings! I'm a third-year Bachelor of Information Technology student and I'm passionate furthering my knowledge of all things code and design related in order to find my true passion of IT! Particularly fond User Interface Design (UI), small coding projects targeting task optimzation and restoring vintage hardware. Looking to learn unity at some point aswell for personal projects.
 
-I’m currently developing my skills in game development following my increased intrest after developing a game for a group university project.
+Currently undertaking a placement for my universtiy degree, which uses the flutterflow applcation creator (as I had never used it before and due to the clients request).
 
 <div align="center">
 
